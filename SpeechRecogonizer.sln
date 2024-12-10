@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechRecogonizer", "SpeechRecogonizer\SpeechRecogonizer.csproj", "{88A35B5E-C0BD-4052-88B8-C8E572EC328B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-app", "test-app\test-app.csproj", "{EC6B5DF6-140E-4C02-BEA6-3676A6294C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A35B5E-C0BD-4052-88B8-C8E572EC328B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A35B5E-C0BD-4052-88B8-C8E572EC328B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A35B5E-C0BD-4052-88B8-C8E572EC328B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A35B5E-C0BD-4052-88B8-C8E572EC328B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6B5DF6-140E-4C02-BEA6-3676A6294C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6B5DF6-140E-4C02-BEA6-3676A6294C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6B5DF6-140E-4C02-BEA6-3676A6294C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6B5DF6-140E-4C02-BEA6-3676A6294C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99210E03-D024-4E13-9E31-A50CFEC257A0}
+	EndGlobalSection
+EndGlobal
