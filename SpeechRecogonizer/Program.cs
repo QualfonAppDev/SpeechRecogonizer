@@ -12,7 +12,7 @@ class Program
     static async Task Main(string[] args)
     {
         // Retrieve Azure Speech Service settings
-        string apiKey = "Fe3OQtbq04LyxHdS2g7HNZW7en0MwBBAzXKic3UaLfktO1kqTQcsJQQJ99AKACYeBjFXJ3w3AAAYACOGFRJ0";
+        string apiKey = "demo";
         string serviceRegion = "eastus";
 
         var signalRClient = new SignalRClient();
